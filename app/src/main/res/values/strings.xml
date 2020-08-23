@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">UVC-PURGE</string>
+    <string name="about_us_description">For the first time in Bangladesh with the wholehearted support of Military Institute of Science and Technology
+        along with the department of Computer Science and Engineering Team UVC-PURGE have developed UVC disinfection semi-autonomous robot
+        to fight against current Covid-19 pandemic. After the successful trial of prototype version we have developed UVC Purge v2.0.
+        UVC Purge v2.0 is now much more robust, compact, user friendly and capable then before.
+        This robot has been upgraded to 6 T5 UVC (254 nm) lamp to inactive SARS cov-2 virus (coronavirus) effectively with a disinfection time of 2-3 minutes in a standard 12’x16’ room.
+        It is semi-autonomous in nature by preventing any unintentional damage with obstacles.
+        Being fully wireless controlled by mobile app or computer platform UVC-Purge is very user friendly with 2500 square feet coverage.
+        Moreover, it has a good battery backup of 1 hour along with a stylish body design.
+        This cost efficient robot is suitable for a safe disinfection procedure in any indoor
+        environment such as Hospital, ICU, Office room, Class room, Corridor, Personal Apartment etc.</string>
+</resources>
